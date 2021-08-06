@@ -1,0 +1,25 @@
+*******************Different modules******************************
+1)User module
+^^^^^^^^^^^^^^^^^^^^^^^
+*Log in
+*Registration
+*personal data editing
+*profile
+^^^^^^^^^^^^^^^^^^^^^^^
+
+ 
+2) Admin module
+^^^^^^^^^^^^^^^^^^^^^^^
+
+*log in
+*adminstrator dashboard
+
+3) Developer module
+4) travel agent module
+^^^^^^^^^^^^^^^^^^^^^^^
+
+*log in
+*personal data editing
+5) supplier module
+6) 3rd party information provider module
+
