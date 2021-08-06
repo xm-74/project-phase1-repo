@@ -1,0 +1,10 @@
+{
+    "firstName": "Aditya",
+    "lastName": "Upadhyay",
+    "address": {
+        "city": "Gandhinagar",
+        "state": "Gujarat"
+    },
+    "college": "BPCCS"
+
+}
